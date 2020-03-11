@@ -1,3 +1,3 @@
-# LinearRegression
+# Regression
 
-Linear Regression models
+Different linear and non linear Regression models
